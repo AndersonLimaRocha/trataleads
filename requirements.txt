@@ -1,0 +1,6 @@
+streamlit
+pandas
+re
+unicodedata
+plotly
+Faker
